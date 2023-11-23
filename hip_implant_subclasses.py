@@ -1,0 +1,1 @@
+hip_implant_subclasses = ["hip_implant"]

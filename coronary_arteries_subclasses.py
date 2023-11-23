@@ -1,0 +1,1 @@
+coronary_arteries_subclasses = ["coronary_arteries"]

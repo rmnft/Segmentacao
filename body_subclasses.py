@@ -1,0 +1,1 @@
+body_subclasses = ["body", "body_trunc", "body_extremities", "skin"]
